@@ -1,3 +1,9 @@
+> [!WARNING]  
+> Deprecation Alert - The old releases older than R2024a of Network License Manager will get deprecated and removed by February 2025.
+
+> [!IMPORTANT]  
+> Always use the `latest` for any version of MATLAB or MATLAB Parallel Server or MATLAB Production Server because the `latest` version is backwards compatible.
+
 # Network License Manager for MATLAB on Microsoft Azure (Windows VM)
 
 This repository shows how to automate the process of starting a Network License Manager for MATLAB®  running on a Windows®  virtual machine, in your Azure®  account. The cloud resources are created using Azure Resource Manager (ARM) templates. For information about the architecture of this solution, see [Learn about Architecture](#learn-about-architecture).
