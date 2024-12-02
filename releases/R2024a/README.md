@@ -1,3 +1,9 @@
+> [!WARNING]  
+> Deprecation Alert - The old releases older than R2024a of Network License Manager will get deprecated and removed by February 2025.
+
+> [!IMPORTANT]  
+> Always use the `latest` for any version of MATLAB or MATLAB Parallel Server or MATLAB Production Server because the `latest` version is backwards compatible.
+
 # Network License Manager for MATLAB on Microsoft Azure
 
 ## Step 1. Launch the Template
@@ -6,7 +12,7 @@ Click the **Deploy to Azure** button below to deploy the cloud resources on Azur
 
 | Create Virtual network | Use Existing Virtual Network |
 | --- | --- |
-| Use this option if you would like to deploy the resources in a new virtual network:<br><br><a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmathworks-ref-arch%2Flicense-manager-for-matlab-on-azure%2Fmaster%2Freleases%2FR2024a%2Fazuredeploy-R2024a.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/></a></br></br> | Use this option if you would like to deploy the resources in an existing virtual network: <br><br><a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmathworks-ref-arch%2Flicense-manager-for-matlab-on-azure%2Fmaster%2Freleases%2FR2024a%2Fazuredeploy-existing-vnet-R2024a.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/></a></br></br> |
+| Use this option if you would like to deploy the resources in a new virtual network:<br><br><a href="#" style="pointer-events: none; cursor: default;"><img src="https://aka.ms/deploytoazurebutton" style="opacity: 0.5; filter: grayscale(100%);"/></a></br></br> | Use this option if you would like to deploy the resources in an existing virtual network: <br><br><a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmathworks-ref-arch%2Flicense-manager-for-matlab-on-azure%2Fmaster%2Freleases%2FR2024a%2Fazuredeploy-existing-vnet-R2024a.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"/></a></br></br> |
 
 > Cluster Platform: Windows Server 2019
 
